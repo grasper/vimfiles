@@ -1,9 +1,6 @@
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
 	url = git@github.com:tpope/vim-pathogen.git
-[submodule "bundle/bundle/vim-pathogen"]
-	path = bundle/bundle/vim-pathogen
-	url = git@github.com:tpope/vim-pathogen.git
 [submodule "bundle/ctrlp.vim"]
 	path = bundle/ctrlp.vim
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
@@ -25,9 +22,6 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive.git
-[submodule "bundle/vim-renamer"]
-	path = bundle/vim-renamer
-	url = git@github.com:qpkorr/vim-renamer.git
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = git@github.com:honza/vim-snippets.git
@@ -37,3 +31,9 @@
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
 	url = git@github.com:davidhalter/jedi-vim.git
+[submodule "bundle/scratch"]
+	path = bundle/scratch
+	url = git@github.com:mtth/scratch.vim.git
+[submodule "bundle/vim-renamer"]
+	path = bundle/vim-renamer
+	url = git@github.com:qpkorr/vim-renamer.git
