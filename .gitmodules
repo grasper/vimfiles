@@ -37,3 +37,6 @@
 [submodule "bundle/vim-renamer"]
 	path = bundle/vim-renamer
 	url = git@github.com:qpkorr/vim-renamer.git
+[submodule "bundle/Drawit"]
+	path = bundle/Drawit
+	url = git@github.com:vim-scripts/DrawIt.git
