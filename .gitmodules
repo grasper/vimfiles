@@ -40,3 +40,6 @@
 [submodule "bundle/Drawit"]
 	path = bundle/Drawit
 	url = git@github.com:vim-scripts/DrawIt.git
+[submodule "bundle/vim-python-pep8-indent"]
+	path = bundle/vim-python-pep8-indent
+	url = git@github.com:hynek/vim-python-pep8-indent.git
