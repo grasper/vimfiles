@@ -46,12 +46,6 @@
 [submodule "bundle/--force"]
 	path = bundle/--force
 	url = git@github.com:qpkorr/vim-renamer.git
-[submodule "bundle/bundle/Vim-abolish"]
-	path = bundle/bundle/Vim-abolish
-	url = git@github.com:tpope/vim-abolish.git
-[submodule "bundle/Vim-abolish"]
-	path = bundle/Vim-abolish
-	url = git@github.com:tpope/vim-abolish.git
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = git@github.com:tpope/vim-abolish.git
@@ -67,3 +61,9 @@
 [submodule "bundle/calendar-vim"]
 	path = bundle/calendar-vim
 	url = git@github.com:mattn/calendar-vim.git
+[submodule "bundle/vim-pandoc"]
+	path = bundle/vim-pandoc
+	url = git@github.com:vim-pandoc/vim-pandoc.git
+[submodule "bundle/vim-pandoc-syntax"]
+	path = bundle/vim-pandoc-syntax
+	url = git@github.com:vim-pandoc/vim-pandoc-syntax.git
