@@ -46,9 +46,6 @@
 [submodule "bundle/--force"]
 	path = bundle/--force
 	url = git@github.com:qpkorr/vim-renamer.git
-[submodule "bundle/vim-abolish"]
-	path = bundle/vim-abolish
-	url = git@github.com:tpope/vim-abolish.git
 [submodule "bundle/vim-renamer"]
 	path = bundle/vim-renamer
 	url = git@github.com:qpkorr/vim-renamer.git
